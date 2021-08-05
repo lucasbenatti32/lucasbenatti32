@@ -1,7 +1,7 @@
 ## Olá eu sou o Lucas benatti!!
 
 - 🔭 Trabalho com desenvolvimento Front-end
-- 🌱 Estuou estudando Analise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contato: wtsdesenvolvimentos@gmail.com
 
 ##

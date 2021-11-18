@@ -1,8 +1,10 @@
 ## Olá eu sou o Lucas benatti!!
-
-- 🔭 Trabalho com desenvolvimento Front-end
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
-- 📫 Contato: wtsdesenvolvimentos@gmail.com
+#### Redes Sociais
+<div style="display:inline_block"><br/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+</div>
 
 ##
 

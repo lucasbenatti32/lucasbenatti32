@@ -9,6 +9,7 @@
 ##
 
 ![Lucas Benatti GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbenatti32&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbenatti32&layout=compact)](https://github.com/lucasbenatti32/github-readme-stats)
 
 #### Tecnologias que eu uso no meu dia
 

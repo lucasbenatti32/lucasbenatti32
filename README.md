@@ -1,4 +1,5 @@
 ## Olá eu sou o Lucas benatti!!
+
 #### Redes Sociais
 <div style="display:inline_block"><br/>
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -8,8 +9,8 @@
 
 ##
 
-![Lucas Benatti GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbenatti32&show_icons=true&theme=highcontrast)
 
+![Lucas Benatti GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbenatti32&show_icons=true&theme=highcontrast)
 
 #### Tecnologias que eu uso no meu dia
 
